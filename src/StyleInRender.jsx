@@ -12,7 +12,7 @@ export default class StyleInRender extends React.Component {
     setInterval(this.increment, 10);
   }
   increment() {
-    this.setState({counter: this.state.counter + 0.01});
+    this.setState({ counter: this.state.counter + 0.01 });
   }
   render() {
     const counterStyles = {

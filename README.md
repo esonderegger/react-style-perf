@@ -11,4 +11,4 @@ To run this test:
 
 Open the page at [http://localhost:3000/](http://localhost:3000/)
 
-Then comment/uncomment pairs of lines in `src/index.js` and observe changes in the task manager / performance panel.
+Then comment/uncomment pairs of lines in `src/index.jsx` and observe changes in the task manager / performance panel.
